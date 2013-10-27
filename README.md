@@ -15,7 +15,6 @@ Installation
 
 To install via Git:
 
-    mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-    cd ~/Library/Application\ Support/TextMate/Bundles
+    mkdir -p ~/Library/Application\ Support/Avian/Pristine\ Copy/Bundles/
+    cd ~/Library/Application\ Support/Avian/Pristine\ Copy/Bundles
     git clone git://github.com/jehiah/pyflakes.tmbundle.git "pyflakes.tmbundle"
-    osascript -e 'tell app "TextMate" to reload bundles'
